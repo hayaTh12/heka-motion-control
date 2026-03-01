@@ -37,7 +37,7 @@ Supported model variants: `transformertsai`, `bilstm`, `Hernandez2021cnnlstm`
 ## Project Structure
 
 ```
-BioMAT/
+Heka-motion-control/
 ├── configs/               # Training configurations (model, dataset, hyperparameters)
 ├── model/                 # Transformer, BiLSTM, CNN-LSTM architectures
 │   └── core/tst/          # Time Series Transformer core modules
